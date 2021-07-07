@@ -2,5 +2,7 @@ hey friends
 
 This is franci jr !!
 
-THIS is some information regarding the pushing method into the git hub
+THIS is some information regarding the pushing method into the git hub.
+
+!! LEts CLOne now !!
  
